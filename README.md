@@ -1,9 +1,9 @@
 # Eigenface
 This repository is a in-class project that helps you understand basics. 
 
-  - OOP
-  - Python
-  - Simple
+  - numpy
+  - PIL
+  - matplotlib
 
 # Introduction
 
